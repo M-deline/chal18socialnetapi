@@ -27,3 +27,4 @@
 - Previous modules from University of Denver Bootcamp
 - “Understanding the Mongoose __V Field.” ObjectRocket Understanding the Mongoose v Field Comments, kb.objectrocket.com/mongo-db/understanding-the-mongoose-__v-field-1011. Accessed 17 Nov. 2023. 
 - Rosenkranz, Alex. “Date Formats.” Gist, 2020, gist.github.com/arosenkranz/c9e9e1f360d4bbc93b29f3b523893fff. 
+- Thanks to my friend and tutor Rebecca for helping me with the bonus and helping me make sure that the syntax was correct for the different routes and time. 
