@@ -1,6 +1,6 @@
 # Social Network API Application
 ## Link to Video Demo
-* Please click [here](https://drive.google.com/file/d/1S0JcB1oLAmNcxuGuiX8IleMOtA25ou-0/view) to view the video demo
+* Please click [here](https://drive.google.com/file/d/1Ab9Zz1UX-rmaZRssQwKIi86xCNrRonDB/view) to view the video demo
 ## Overview
 * This application uses Node.js and Express.js to create a social network app so that users can create a user to post thoughts or react to other people's thoughts and add friends. The user is able to update their username or delete their user and they are able to post thoughts as well as post reactions to somebody else's thought. They can add or delete friends as they wish.
 * To make this app work properly, there must be a server and a databse (config/connections to connect to mongoose). Then models are used for thought and user to be able to see how the program and data will be structured/executed. The routes are used to define the routes for the website so that the app knows how to respond to the API endpoint and user input (GET, POST, PUT, DELETE). The controllers are used to receive everything listed in the models and then use that to  handle requests and returning the response to the user/client. The utils folder for this specific app is used to get the current time and then export it to the models into the thoughts so that the users can see when a thought was created.
